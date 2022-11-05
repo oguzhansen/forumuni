@@ -1,0 +1,19 @@
+RewriteEngine On
+
+RewriteRule ^anasayfa?$ index.php
+
+RewriteRule ^kesfet?$ universiteler.php
+
+RewriteRule ^sorucevap?$ sorucevap.php
+
+RewriteRule ^bildirimler?$ bildirimler.php
+
+RewriteRule ^girisyap?$ login.php
+
+RewriteRule ^profilim?$ myprofile.php
+
+RewriteRule ^([0-9a-zA-Z-_]+)$ user.php?username=$1
+
+
+ErrorDocument 404 /404.php
+ErrorDocument 403 /404.php

@@ -1,0 +1,18 @@
+[08-Oct-2022 10:29:18 Europe/Istanbul] PHP Warning:  filetype(): Lstat failed for ../uploads/other/file_384hk1f5rjs0ge2d69tw7uy.png in /home/xcuforum/public_html/admin/files.php on line 39
+[08-Oct-2022 10:29:18 Europe/Istanbul] PHP Warning:  filesize(): stat failed for ../uploads/other/file_384hk1f5rjs0ge2d69tw7uy.png in /home/xcuforum/public_html/admin/files.php on line 40
+[25-Oct-2022 18:27:55 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 39
+[25-Oct-2022 18:27:55 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 51
+[25-Oct-2022 18:27:55 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 63
+[25-Oct-2022 18:27:55 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 75
+[25-Oct-2022 18:27:55 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 87
+[25-Oct-2022 18:27:55 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 111
+[25-Oct-2022 18:27:55 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 158
+[25-Oct-2022 18:27:55 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 162
+[25-Oct-2022 18:29:33 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 39
+[25-Oct-2022 18:29:33 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 51
+[25-Oct-2022 18:29:33 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 63
+[25-Oct-2022 18:29:33 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 75
+[25-Oct-2022 18:29:33 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 87
+[25-Oct-2022 18:29:33 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 111
+[25-Oct-2022 18:29:33 Europe/Istanbul] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 158
+[25-Oct-2022 18:29:33 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/xcuforum/public_html/admin/dashboard.php on line 162
